@@ -1,0 +1,6 @@
+{
+  "name": "Signal",
+  "description": "Local B2B lead generation sniper alerting service providers real-time when nearby opportunities arise.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
